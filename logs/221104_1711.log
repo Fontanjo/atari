@@ -1,0 +1,81 @@
+Moviepy - Building video video/temp/temp_0.mp4.
+Moviepy - Writing video video/temp/temp_0.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_0.mp4
+Moviepy - Building video video/temp/temp_1.mp4.
+Moviepy - Writing video video/temp/temp_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_1.mp4
+Moviepy - Building video video/temp/temp_2.mp4.
+Moviepy - Writing video video/temp/temp_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_2.mp4
+Moviepy - Building video video/temp/temp_3.mp4.
+Moviepy - Writing video video/temp/temp_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_3.mp4
+Moviepy - Building video video/temp/temp_4.mp4.
+Moviepy - Writing video video/temp/temp_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_4.mp4
+
+5 new videos generated
+426 frames extracted from video/temp/temp_4.mp4 and shuffled in 0.12s
+406 frames extracted from video/temp/temp_0.mp4 and shuffled in 0.13s
+449 frames extracted from video/temp/temp_3.mp4 and shuffled in 0.13s
+602 frames extracted from video/temp/temp_1.mp4 and shuffled in 0.19s
+748 frames extracted from video/temp/temp_2.mp4 and shuffled in 0.23s
+2631 new images extracted from the videos in 195.41s
+(406, 602, 748, 449, 426)
+From the 2631 new images, 244 added to the list in 49.61s
+Total images: 244
+Temp videos deleted
+Moviepy - Building video video/temp/temp_0.mp4.
+Moviepy - Writing video video/temp/temp_0.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_0.mp4
+Moviepy - Building video video/temp/temp_1.mp4.
+Moviepy - Writing video video/temp/temp_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_1.mp4
+Moviepy - Building video video/temp/temp_2.mp4.
+Moviepy - Writing video video/temp/temp_2.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_2.mp4
+Moviepy - Building video video/temp/temp_3.mp4.
+Moviepy - Writing video video/temp/temp_3.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_3.mp4
+Moviepy - Building video video/temp/temp_4.mp4.
+Moviepy - Writing video video/temp/temp_4.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_4.mp4
+
+5 new videos generated
+371 frames extracted from video/temp/temp_0.mp4 and shuffled in 0.12s
+365 frames extracted from video/temp/temp_2.mp4 and shuffled in 0.12s
+415 frames extracted from video/temp/temp_4.mp4 and shuffled in 0.14s
+628 frames extracted from video/temp/temp_3.mp4 and shuffled in 0.24s
+688 frames extracted from video/temp/temp_1.mp4 and shuffled in 0.25s
+2467 new images extracted from the videos in 166.7s
+(371, 688, 365, 628, 415)
+From the 2467 new images, 192 added to the list in 416.15s
+Total images: 436
+Stop condition encountered: 3 repetitions
+Temp videos deleted
+End of the generation (after 836.36s).
+436 new images generated
+Total images: 436
+[244, 192]
+436 images saved in dataset_initial/temp/Seaquest-v5
+Images saved in dataset_initial/temp/Seaquest-v5

@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+jupyter = "*"
+notebook = "*"
+gym = {extras = ["accept-rom-license"], version = "*"}
+moviepy = "*"
+pandas = "*"
+opencv-python = "*"
+matplotlib = "*"
+dask = "*"
+torch = "*"
+torchvision = "*"
+brutelogger = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

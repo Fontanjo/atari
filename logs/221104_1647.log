@@ -1,0 +1,59 @@
+dataset_initial/temp/Seaquest-v5 does not yet exist or is not a dir
+Initializing with an empty list
+Moviepy - Building video video/temp/temp_0.mp4.
+Moviepy - Writing video video/temp/temp_0.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_0.mp4
+Moviepy - Building video video/temp/temp_1.mp4.
+Moviepy - Writing video video/temp/temp_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_1.mp4
+
+2 new videos generated
+1000 new images extracted from the videos in 135.75s
+(444, 556)
+From the 1000 new images, 90 added to the list in 29.76s
+Total images: 90
+Temp videos deleted
+Moviepy - Building video video/temp/temp_0.mp4.
+Moviepy - Writing video video/temp/temp_0.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_0.mp4
+Moviepy - Building video video/temp/temp_1.mp4.
+Moviepy - Writing video video/temp/temp_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_1.mp4
+
+2 new videos generated
+1038 new images extracted from the videos in 144.97s
+(561, 477)
+From the 1038 new images, 120 added to the list in 31.25s
+Total images: 210
+Temp videos deleted
+Moviepy - Building video video/temp/temp_0.mp4.
+Moviepy - Writing video video/temp/temp_0.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_0.mp4
+Moviepy - Building video video/temp/temp_1.mp4.
+Moviepy - Writing video video/temp/temp_1.mp4
+
+Moviepy - Done !
+Moviepy - video ready video/temp/temp_1.mp4
+
+2 new videos generated
+813 new images extracted from the videos in 92.5s
+(361, 452)
+From the 813 new images, 58 added to the list in 30.71s
+Total images: 268
+Stop condition encountered: 3 repetitions
+Temp videos deleted
+End of the generation (after 470.13s).
+268 new images generated
+Total images: 268
+268 images saved in dataset_initial/temp/Seaquest-v5
+Images saved in dataset_initial/temp/Seaquest-v5

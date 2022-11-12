@@ -1,0 +1,11 @@
+,EnvName,inputs_space,nactions,action_space,discrete
+0,DemonAttack-v5,"Box(0, 255, (210, 160, 3), uint8)",6,Discrete(6),True
+0,FishingDerby-v5,"Box(0, 255, (210, 160, 3), uint8)",18,Discrete(18),True
+0,Frostbite-v5,"Box(0, 255, (210, 160, 3), uint8)",18,Discrete(18),True
+0,Kangaroo-v5,"Box(0, 255, (210, 160, 3), uint8)",18,Discrete(18),True
+0,NameThisGame-v5,"Box(0, 255, (210, 160, 3), uint8)",6,Discrete(6),True
+0,Phoenix-v5,"Box(0, 255, (210, 160, 3), uint8)",8,Discrete(8),True
+0,Qbert-v5,"Box(0, 255, (210, 160, 3), uint8)",6,Discrete(6),True
+0,Seaquest-v5,"Box(0, 255, (210, 160, 3), uint8)",18,Discrete(18),True
+0,SpaceInvaders-v5,"Box(0, 255, (210, 160, 3), uint8)",6,Discrete(6),True
+0,TimePilot-v5,"Box(0, 255, (210, 160, 3), uint8)",10,Discrete(10),True
