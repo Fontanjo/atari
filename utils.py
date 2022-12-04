@@ -78,6 +78,19 @@ def get_full_atari_list():
 
 
 
+def get_frames_to_skip():
+    return {
+        'DemonAttack-v5':   0,
+        'FishingDerby-v5':  0,
+        'Frostbite-v5':     16,
+        'Kangaroo-v5':      40, #   (2 after)
+        'NameThisGame-v5':  100,
+        'Phoenix-v5':       0,
+        'Qbert-v5':         40,
+        'Seaquest-v5':      32,
+        'SpaceInvaders-v5': 34,
+        'TimePilot-v5':     32,
+    }
 
 # # From ALE: https://arxiv.org/abs/1207.4708
 # def get_full_atari_list():
